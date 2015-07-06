@@ -1,0 +1,36 @@
+Containers:
+	Bootstrap requires a containing element to wrap site contents
+	Two types of containers
+		.container:
+			responsive fixed width container.
+		.container-fluid:
+			for a full width container, spanning the entire width of your viewport.
+--------------------------------------------------------------------------------------------------------------------------
+Grid system:
+	Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases.
+	Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here's how the Bootstrap grid system works:
+		Rows must be placed within a .container (fixed-width) or .container-fluid (full-width) for proper alignment and padding.
+		Use rows to create horizontal groups of columns.
+		Content should be placed within columns, and only columns may be immediate children of rows.
+		Columns create gutters (gaps between column content) via padding.
+--------------------------------------------------------------------------------------------------------------------------
+Typography:
+	Bootstrap's global default font-size is 14px.
+	All HTML headings, <h1> through <h6>, are available.
+	.h1 through .h6 classes are also available, for when you want to match the font styling of a heading but still want your text to be displayed inline.
+	Create lighter, secondary text in any heading with a generic <small> tag or the .small class.
+--------------------------------------------------------------------------------------------------------------------------
+Images:
+	Images in Bootstrap 3 can be made responsive-friendly via the addition of the .img-responsive class.
+	This applies max-width: 100%;, height: auto; and display: block; to the image so that it scales nicely to the parent element.
+--------------------------------------------------------------------------------------------------------------------------
+Navbar:
+	Navbars are responsive meta components that serve as navigation headers for your application or site.
+	They begin collapsed (and are toggleable) in mobile views and become horizontal as the available viewport width increases.
+	Replace the navbar brand with your own image by swapping the text for an <img>.
+	Since the .navbar-brand has its own padding and height, you may need to override some CSS depending on your image.
+	Place form content within .navbar-form for proper vertical alignment and collapsed behavior in narrow viewports.
+	Use the alignment options to decide where it resides within the navbar content.
+--------------------------------------------------------------------------------------------------------------------------
+Media Object:
+	Abstract object styles for building various types of components (like blog comments, Tweets, etc) that feature a left- or right-aligned image alongside textual content.
