@@ -1,0 +1,142 @@
+HTML:
+	HTML (Hypertext Markup Language) is the set of markup symbols or codes inserted in a file intended for display on a World Wide Web browser page.
+	The markup tells the Web browser how to display a Web page's words and images for the user.
+	Each individual markup code is referred to as an element (but many people also refer to it as a tag).
+	Some elements come in pairs that indicate when some display effect is to begin and when it is to end.
+--------------------------------------------------------------------------------------------------------------------------
+Box model:
+	All HTML elements can be considered as boxes.
+	In CSS, the term "box model" is used when talking about design and layout.
+	The CSS box model is essentially a box that wraps around HTML elements, and it consists of: margins, borders, padding, and the actual content.
+	The box model allows us to add a border around elements, and to define space between elements.
+	The image below illustrates the box model
+
+	Explanation of the different parts:
+		Content - The content of the box, where text and images appear
+		Padding - Clears an area around the content. The padding is transparent
+		Border - A border that goes around the padding and content
+		Margin - Clears an area outside the border. The margin is transparent
+--------------------------------------------------------------------------------------------------------------------------
+Dimensions:
+	Margins & Paddings:
+		Margins:
+			The margin clears an area around an element (outside the border).
+			The margin does not have a background color, and is completely transparent.
+			The top, right, bottom, and left margin can be changed independently using separate properties.
+			A shorthand margin property can also be used, to change all margins at once.
+		Paddings:
+			The padding clears an area around the content (inside the border) of an element.
+			The padding is affected by the background color of the element.
+			The top, right, bottom, and left padding can be changed independently using separate properties.
+			A shorthand padding property can also be used, to change all paddings at once.
+
+	Widths & Heights:
+		Widths
+			The width property sets the width of an element.
+			The width property does not include padding, borders, or margins; it sets the width of the area inside the padding, border, and margin of the element!
+
+			Min:
+				The min-width property is used to set the minimum width of an element.
+				This prevents the value of the width property from becoming smaller than min-width.
+				The value of the min-width property overrides both max-width and width.
+			Max:
+				The max-width property is used to set the maximum width of an element.
+				This prevents the value of the width property from becoming larger than max-width.
+				The value of the max-width property overrides width.
+		Heights:
+			The height property sets the height of an element.
+			The height property does not include padding, borders, or margins; it sets the height of the area inside the padding, border, and margin of the element!
+
+			Min:
+				The min-height property is used to set the minimum height of an element.
+				This prevents the value of the height property from becoming smaller than min-height.
+				The value of the min-height property overrides both max-height and height.
+			Max:
+				The max-height property is used to set the maximum height of an element.
+				This prevents the value of the height property from becoming larger than max-height.
+				The value of the max-height property overrides height. 
+		
+		The viewport-percentage lengths are relative to the size of the initial containing block. When the height or width of the initial containing block is changed, they are scaled accordingly.
+		These units are vh (viewport height), vw (viewport width), vmin (viewport minimum length) and vmax (viewport maximum length).
+--------------------------------------------------------------------------------------------------------------------------
+Display:
+	The display property is the most important CSS property for controlling layout.
+	The display property specifies if/how an element is displayed.
+	Every HTML element has a default display value depending on what type of element it is.
+	The default display value for most elements is block or inline.
+
+	Display block:
+		A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+		Examples of block-level elements:
+			<div>
+			<h1> - <h6>
+			<p>
+			<form>
+			<header>
+			<footer>
+			<section>
+	Display inline:
+		An inline element does not start on a new line and only takes up as much width as necessary.
+		Examples of inline elements:
+			<span>
+			<a>
+			<img>
+	Display inline-block:
+		Displays an element as an inline-level block container.
+		The inside of this block is formatted as block-level box, and the element itself is formatted as an inline-level box.
+	Display inherit:
+		Inherits this property from its parent element.
+--------------------------------------------------------------------------------------------------------------------------
+Visibility:
+	Specifies whether a box is visible or not.
+	There are four different visibility values:
+		inherit
+		visible (default)
+		hidden - nothing will be visible but unlike display: none, the element and its dimensions will still affect layout.
+		collapse - same as hidden except when applied to rows, row groups, columns or column group boxes, when it should have the same visual representation of display: none whilst maintaining the cell heights or widths that will effect row heights and column widths. Those browsers that "support" this value (IE does not) actually render collapse the same as hidden no matter what the situation.
+--------------------------------------------------------------------------------------------------------------------------
+Position:
+	The position property specifies the type of positioning method used for an element (static, relative, fixed or absolute).
+	There are four different position values:
+		static
+		relative
+		fixed
+		absolute
+	Elements are then positioned using the top, bottom, left, and right properties.
+	However, these properties will not work unless the position property is set first.
+	They also work differently depending on the position value.
+
+	Position static:
+		HTML elements are positioned static by default.
+		Static positioned elements are not affected by the top, bottom, left, and right properties.
+		An element with position: static; is not positioned in any special way; it is always positioned according to the normal flow of the page.
+
+	Position relative:
+		An element with position: relative; is positioned relative to its normal position.
+		Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position.
+		Other content will not be adjusted to fit into any gap left by the element.
+
+	Position fixed:
+		An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled.
+		The top, right, bottom, and left properties are used to position the element.
+		A fixed element does not leave a gap in the page where it would normally have been located.
+		Other content will not be adjusted to fit into any gap left by the element.
+
+	Position absolute:
+		An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
+		However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.
+--------------------------------------------------------------------------------------------------------------------------
+Overflow:
+	Specifies what should happen to the overflow - the portions of content that do not fit inside a box.
+	There are three different overflow values:
+		inherit
+		visible (default) - overflow spills over the box.
+		hidden - overflow can not be seen.
+--------------------------------------------------------------------------------------------------------------------------
+Float:
+	Specifies whether a fixed-width box should float, shifting it to the right or left with surrounding content flowing around it.
+	There are four different float values:
+		inherit
+		left - floats the box to the left with surrounding content flowing to the right.
+		right - floats the box to the right with surrounding content flowing to the left.
+		none (default)
