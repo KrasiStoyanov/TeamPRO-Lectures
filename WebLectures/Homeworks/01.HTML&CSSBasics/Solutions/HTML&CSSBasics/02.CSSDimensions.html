@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>02. CSS Dimensions</title>
+	</head>
+
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		div#main-content {
+			width: 90%;
+			margin: 0 auto;
+			background-color: #f1f1f1;
+		}
+
+		div#main-content div#gallery div.image-wrapper {
+			width: 200px;
+			display: inline-block;
+			
+			margin: 20px;
+			padding: 15px;
+
+			border-radius: 20px;
+			border-size: 5px;
+			border-style: dashed solid;
+			border-color: red;
+		}
+
+		div#main-content div#gallery div.image-wrapper img.image {
+			width: 100%;
+			border-radius: 20px;
+		}
+	</style>
+	<body>
+		<div id="main-content">
+			<div id="gallery">
+				<div class="image-wrapper">
+					<img class="image" src="images/image1.jpg" alt="Image 1">
+				</div>
+
+				<div class="image-wrapper">
+					<img class="image" src="images/image2.jpg" alt="Image 1">
+				</div>
+
+				<div class="image-wrapper">
+					<img class="image" src="images/image3.jpg" alt="Image 1">
+				</div>
+
+				<div class="image-wrapper">
+					<img class="image" src="images/image1.jpg" alt="Image 1">
+				</div>
+
+				<div class="image-wrapper">
+					<img class="image" src="images/image2.jpg" alt="Image 1">
+				</div>
+
+				<div class="image-wrapper">
+					<img class="image" src="images/image3.jpg" alt="Image 1">
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
