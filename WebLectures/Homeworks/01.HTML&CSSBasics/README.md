@@ -10,7 +10,7 @@
 	* ordered list (2x)
 * Result should look like: <a href="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/01.HTMLBasics.png">Result image</a>
 
-###Task 3:
+###Task 2:
 #####Create a HTML page containing the folowing:
 * Div with id `main-content`, containing:
 	* Div with id `gallery`
@@ -39,7 +39,7 @@
 
 * Result should look like: <a href="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/02.CSSDimensions.png">Result image</a>
 
-###Task 2:
+###Task 3:
 #####Create a HTML page containing the folowing:
 * Images with classes `image` and: (9x)
 	* `image-top-left`
