@@ -1,10 +1,12 @@
 #Tasks
 ###Task 1:
 #####Create a HTML page containing the folowing:
-* div with class `main-div`, containing:
+* Div with class `main-div`, containing:
 	* p with class `sample-text`
 	* unordered list with class `sample-list` (2x)
 
-* span, containg:
+* Span, containg:
 	* h1 with class `big-text`
 	* ordered list (2x)
+* Result should look like:
+	* <img src="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/01.HTMLBasics.png" alt="Homework result" />
