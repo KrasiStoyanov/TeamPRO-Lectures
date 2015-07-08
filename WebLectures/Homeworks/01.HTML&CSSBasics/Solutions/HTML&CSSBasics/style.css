@@ -1,0 +1,144 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #e9eaed;
+}
+
+/* MAIN CONTENT AND STUFF - START */
+div#main-content {
+	width: 100%;
+}
+
+div#main-content div#posts {
+	width: 50%;
+	padding: 3%;
+	margin: 0 auto;
+}
+
+div#main-content div#posts div.post-wrapper {
+	width: 100%;
+	background-color: #fff;
+	border-radius: 3px;
+	padding: 5%;
+	margin-bottom: 15px;
+}
+
+div#main-content div#posts div.post-wrapper img.image {
+	width: 100%;
+}
+/* MAIN CONTENT AND STUFF - END */
+
+/* ------------------------------------------------ */
+
+/* AUTHOR - START */
+div#main-content div#posts div.post-wrapper div.post-data div.author {
+	display: inline-block;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-image {
+	width: 64px;
+	margin-right: 10px;
+	float: left;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-action {
+	display: table-cell;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-action p {
+	font-size: 18px;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-action p a {
+	color: #3b5998;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-action p small {
+	color: #9197a3;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.author div.author-action p.time {
+	color: #9197a3;
+	font-size: 14px;
+}
+/* AUTHOR - END */
+
+/* ------------------------------------------------ */
+
+/* EVENT - START */
+div#main-content div#posts div.post-wrapper div.post-data div.event {
+	width: 100%;
+	display: inline-block;
+	margin: 10px 0;
+	position: relative;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description {
+	background-color: #fff;
+	border: 1px solid #f1f1f1;
+	
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description a {
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	color: #627aad;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description div.title a {
+	font-size: 18px;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description p {
+	color: #141823;
+	font-size: 14px;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description div.wrapper,
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description div.join {
+	display: table-cell;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description div.join {
+	position: absolute;
+	right: 10;
+	bottom: 15;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.event div.event-description div.join a {
+	padding: 5px 10px;
+	background-color: #fdfefe;
+	color: #4e5665;
+	border: 1px solid #f1f1f1;
+	border-radius: 3px;
+}
+/* EVENT - END */
+
+/* ------------------------------------------------ */
+
+/* USER ACTIONS - START */
+div#main-content div#posts div.post-wrapper div.post-data div.user-actions {
+	margin-top: 15px;
+	width: 100%;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.user-actions div {
+	display: inline-block;
+}
+
+div#main-content div#posts div.post-wrapper div.post-data div.user-actions div a {
+	color: #627aad;
+	margin: 5px;
+}
+/* USER ACTIONS - END */
