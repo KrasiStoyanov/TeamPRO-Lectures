@@ -23,6 +23,7 @@
 	* Style the navigation bar using whatever colors, links and fonts you like
 	* Style the custom grid system making every `.col-3` with `20%` width
 	* Style the artist' data and add some `box-shadow` to it; If you want, use this [tool](http://www.cssmatic.com/box-shadow)
+* Result should look like: [Result image](01.StyleWithCSS.png)
 
 <!-- ###Task 2:
 #####Create a HTML page containing the folowing:
