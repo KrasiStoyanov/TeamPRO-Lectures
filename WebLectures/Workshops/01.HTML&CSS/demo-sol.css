@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+div#main-content {
+	width: 100%;
+	background-color: #e9eaed;
+}
+
+div#posts {
+	width: 50%;
+	margin: 0 auto;
+	padding: 3%;
+}
+
+div.post-wrapper {
+	padding: 5%;
+	background-color: #fff;
+	border-radius: 3px;
+	margin-bottom: 15px;
+}
+
+div.author-data div.name-time {
+	display: table-cell;
+	font-size: 14px;
+}
+
+div.author-data div.image {
+	float: left;
+	margin-right: 10px;
+}
+
+div.author-data div.image img {
+	width: 64px;
+}
+
+div.name-time a {
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+div.event-data {
+	margin: 10px 0;
+	position: relative;
+	display: inline-block;
+}
+
+img.img-image {
+	width: 100%;
+}
+
+div.event-description {
+	background-color: #fff;
+	border: 1px solid #f1f1f1;
+	font-size: 14px;
+
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+}
+
+div.event-description a.going {
+	font-size: 14px;
+}
+
+div.event-description div.join {
+	position: absolute;
+	right: 10;
+	bottom: 15;
+}
+
+div.event-description div.join a {
+	padding: 5px 10px;
+	font-size: 14px;
+	background-color: #fdfefe;
+	color: #4e5665;
+	border: 1px solid #f1f1f1;
+	border-radius: 3px;
+}
+
+div.user-actions {
+	width: 100%;
+	margin-top: 15px;
+}
+
+div.user-actions p a {
+	font-weight: normal;
+	font-size: 16px;
+	text-decoration: underline;
+	display: inline-block;
+	margin: 0 5px;
+}
