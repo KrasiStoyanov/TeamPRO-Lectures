@@ -32,6 +32,6 @@
 	* You will have to override all the elements in the `navbar`, in your css, in order to achieve the result with the menu:
 		* override `nav.navbar-default`
 		* override the `ul.nav li a` in the navbar and change the styles for the different `behaviour` of the menu items
-* The div with id `artists` add to it a class `container` and in it:
+* The div with id `artists` add to it a class `container`:
 	* In your `css` file navigate to where you set the styles for `.col-md-3` and delete them; add only a `margin-bottom: 15px`
 * Result should look like: [Result image](01.StyleWithCSS.png)
