@@ -1,21 +1,20 @@
 #Tasks
 ###Task 1:
 #####Create a HTML page containing the folowing:
-* Div with class `main-div`, containing:
-	* Header section, containing the following:
-		* Nav bar with div with class `nav`, containing:
-			* Unordered list with sample links
-	* Div with id `main content`, containing the following:
-		* Div with id `artists`, containing:
-			* Bootstrap-looking grid system with sample content
-			* Example:
-			```
-			<div class="row">
-				<div class="col-3">
-					...
-				</div>
+* Header section, containing the following:
+	* Nav bar with div with class `nav`, containing:
+		* Unordered list with sample links
+* Div with id `main content`, containing the following:
+	* Div with id `artists`, containing:
+		* Bootstrap-looking grid system with sample content
+		* Example:
+		```
+		<div class="row">
+			<div class="col-3">
+				...
 			</div>
-			```
+		</div>
+		```
 * Add a `link` in the head section to connect to your css and style the page:
 	* Clear all default styles set by the browser
 	* Add custom font; Use this for reference - [Custom font usage in css](http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
