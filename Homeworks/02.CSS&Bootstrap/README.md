@@ -22,7 +22,7 @@
 		* You can locate your fonts in the directory in your PC as follows: `Control Panel\Appearance and Personalization\Fonts`
 	* Style the navigation bar using whatever colors, links and fonts you like
 		* Add `hover` effects (HINT: Use `transition` for cool efects)
-	* Style the custom grid system making every `.col-3` with `20%` width
+	* Style the custom grid system making every `.col-md-3` with `20%` width
 	* Style the artist' data and add some `box-shadow` to it; If you want, use this [tool](http://www.cssmatic.com/box-shadow)
 * Result should look like: [Result image](01.PlainCSS.png)
 
