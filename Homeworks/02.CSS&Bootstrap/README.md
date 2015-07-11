@@ -24,7 +24,7 @@
 		* Add `hover` effects (HINT: Use `transition` for cool efects)
 	* Style the custom grid system making every `.col-3` with `20%` width
 	* Style the artist' data and add some `box-shadow` to it; If you want, use this [tool](http://www.cssmatic.com/box-shadow)
-* Result should look like: [Result image](01.StyleWithCSS.png)
+* Result should look like: [Result image](01.PlainCSS.png)
 
 ###Task 2:
 #####Use the files from the `Task 1` and modify the following:
@@ -34,4 +34,4 @@
 		* override the `ul.nav li a` in the navbar and change the styles for the different `behaviour` of the menu items
 * The div with id `artists` add to it a class `container`:
 	* In your `css` file navigate to where you set the styles for `.col-md-3` and delete them; add only a `margin-bottom: 15px`
-* Result should look like: [Result image](01.StyleWithCSS.png)
+* Result should look like: [Result image](02.UsingBootstrap.png)
