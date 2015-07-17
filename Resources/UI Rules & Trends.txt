@@ -1,0 +1,73 @@
+﻿Light comes from the sky:
+	When light comes from the sky, it illuminates the tops of things and casts shadows below them. The tops of stuff are lighter, the bottoms are darker.
+	Just as we have little shadows on all the undersides of all our facial features, there are shadows on the undersides of just about every UI element you can find.
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*DTB4xeMLpg0DW6NLOYBehw.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*YAB8zDDxCmvegvxCu7d8kw.png
+	https://d262ilb51hltx0.cloudfront.net/max/1267/1*TtuBo6cCUTyP8XIYGSrIyg.png
+	https://d262ilb51hltx0.cloudfront.net/fit/c/720/720/1*sHg3HCEciqqAk1xE8qMrdg.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*Zqcjyz-oIqZZojyYyWVl2Q.png
+--------------------------------------------------------------------------------------------------------------------------
+Black & White first:
+	Designing in grayscale before adding color simplifies the most complex element of visual design– and forces you to focus on spacing and laying out elements.
+	UX designers are really into designing “mobile-first” these days. That means you think about how pages and interactions work on a phone before imagining them on your zillion-pixel Retina monitor.
+	That sort of constraint is great. It clarifies thinking. You start with the harder problem (usable app on a teeny-weeny screen), then adopt the solution to the easier problem (usable app on a large screen).
+	Well here’s another similar constraint: design black and white first. Start with the harder problem of making the app beautiful and usable in every way, but without the aid of color. Add color last, and even then, only with purpose.
+
+	https://d262ilb51hltx0.cloudfront.net/max/1145/1*qheNNhQhjjwxMeJ5XGocsA.png
+	https://d262ilb51hltx0.cloudfront.net/max/1213/1*YxV7C-nHHir-PSbJ4-jqhQ.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*RckBhZxKQfveClU7rwGuyg.jpeg
+	https://d262ilb51hltx0.cloudfront.net/max/400/1*EnbssykGOuXeXMV3AQFyjw.png
+	https://d262ilb51hltx0.cloudfront.net/max/544/1*OraO1vxtkxYteZyE4CXrOQ.png
+	https://d262ilb51hltx0.cloudfront.net/max/873/1*JsbQFaIY6g697PMeEuMwvA.png
+--------------------------------------------------------------------------------------------------------------------------
+Double your whitespace:
+	In Rule 2, I said that B&WF forces designers to think about spacing and layout before considering color, and how that’s a good thing.
+	Well, it’s time we talk about spacing and layout.
+	If you’ve coded HTML from scratch, you’re probably familiar with the way HTML is, by default, laid out on the page.
+
+	https://d262ilb51hltx0.cloudfront.net/max/1067/1*qFwXZ_05pRv2OtiaJHIp6Q.jpeg
+	https://d262ilb51hltx0.cloudfront.net/max/600/1*jSC64LYfVYlMHaI_B7xfKQ.png
+	https://d262ilb51hltx0.cloudfront.net/max/600/1*43qoikq5esyOer2PpETX_Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*g6m0YZVyMEVMuLXzO512gg.png
+	https://d262ilb51hltx0.cloudfront.net/max/544/1*OraO1vxtkxYteZyE4CXrOQ.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*SVtl39B-dSsHo3HFI0h4FA.png
+--------------------------------------------------------------------------------------------------------------------------
+Methods for overlaying text on images:
+	In Rule 2, I said that B&WF forces designers to think about spacing and layout before considering color, and how that’s a good thing.
+	Well, it’s time we talk about spacing and layout.
+	If you’ve coded HTML from scratch, you’re probably familiar with the way HTML is, by default, laid out on the page.
+
+	https://d262ilb51hltx0.cloudfront.net/max/1013/1*cZFET5UcuL6rjVWkwqoK_A.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*aGKzy_8di06W8u1kmKcS4Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/1071/1*-9qT-d3DcjmXV4vZkyBE8g.png
+	https://d262ilb51hltx0.cloudfront.net/max/1253/1*xvsvxW00oE9NuhbRUAUK2Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*0LUET8aQnpFvVB4yNhQj1Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*J_7pHmSn6NvTuC3xFNIlqA.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*6218qUE-AoaikksiQziL7Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*mC1oHWTKlRqOZ-ra3sLh-Q.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*J_7pHmSn6NvTuC3xFNIlqA.png
+	https://d262ilb51hltx0.cloudfront.net/max/650/1*FkH2ZkCQ0wmT5FxmaAMzaA.jpeg
+	https://d262ilb51hltx0.cloudfront.net/max/600/1*FyZBDM_gMoJ8bCK3zVr_Fg.png
+	https://d262ilb51hltx0.cloudfront.net/max/1039/1*mZ22i_UB57qdFBZwOqUFFA.png
+	https://d262ilb51hltx0.cloudfront.net/max/1398/1*pMpduiy5C4LGu7abzj_a6g.png
+	https://d262ilb51hltx0.cloudfront.net/max/1396/1*_uPTqFCygpKPJoC5q0y1mg.png
+	https://d262ilb51hltx0.cloudfront.net/max/800/1*vjezz0sSxlioqbEHbov_uw.png
+	https://d262ilb51hltx0.cloudfront.net/max/1007/1*UFnAScSM_SyiqI7g8e8Ajw.png
+	https://d262ilb51hltx0.cloudfront.net/max/1007/1*i1T-LV5JQMk95st51J8zDA.png
+	https://d262ilb51hltx0.cloudfront.net/max/1003/1*BwU3s9dGxeUSpA-cIFuaHg.png
+--------------------------------------------------------------------------------------------------------------------------
+Make text pop – and un-pop:
+
+	https://d262ilb51hltx0.cloudfront.net/max/1078/1*cT-Y5jcbdrUdO2JiBf8fZg.png
+	https://d262ilb51hltx0.cloudfront.net/max/1071/1*yVbtuu-qvhFRXNwWKBvL-A.png
+	https://d262ilb51hltx0.cloudfront.net/max/961/1*8YceqPbM08OB2kjJPEWzow.png
+	https://d262ilb51hltx0.cloudfront.net/max/1093/1*C0snGn4IAUg_KEjwwPQN3w.png
+	https://d262ilb51hltx0.cloudfront.net/max/979/1*phgw7PCxtkr78p0Td9yHcA.png
+	https://d262ilb51hltx0.cloudfront.net/max/757/1*_9M8qJFXvB7cEabkV-8qrw.png
+--------------------------------------------------------------------------------------------------------------------------
+Popular designers:
+
+	https://dribbble.com/victorerixon
+	https://dribbble.com/focuslab
+	https://dribbble.com/Radium
+	https://www.pinterest.com/warmarc/flat-ui-design/
