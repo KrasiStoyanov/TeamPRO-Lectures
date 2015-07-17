@@ -8,7 +8,7 @@
 * Span, containg:
 	* h1 with class `big-text`
 	* ordered list (2x)
-* Result should look like: <a href="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/01.HTMLBasics.png">Result image</a>
+* Result should look like: [Result image](01.HTMLBasics.png)
 
 ###Task 2:
 #####Create a HTML page containing the folowing:
@@ -37,7 +37,7 @@
 		* with width `100%`
 		* play with the borders
 
-* Result should look like: <a href="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/02.CSSDimensions.png">Result image</a>
+* Result should look like: [Result image](02.CSSDimensions.png)
 
 ###Task 3:
 #####Create a HTML page containing the folowing:
@@ -72,4 +72,4 @@
 	* Make the image with class `image-left-middle` go left middle
 	* Make the image with class `image-absolute-center` go in the absolute center
 
-* Result should look like: <a href="https://github.com/KrasiStoyanov/TeamPRO-Lectures/blob/master/WebLectures/Homeworks/01.HTML%26CSSBasics/03.CSSPositionsAndDisplays.png">Result image</a>
+* Result should look like: [Result image](03.CSSPositionsAndDisplays.png)
